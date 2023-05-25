@@ -7,7 +7,7 @@ This repository provides an APA (7th ed.) citation and bibliography style specif
 To use this citation style in your LaTeX document, follow the instructions below:
 
 1. Download the zip file from this repository.
-2. 
+2. Follow the instruction in the first section.
 In your LaTeX document, use the following commands for citations:
 
 - Use `\parencite{label}` for citation style `(name, year)`.
